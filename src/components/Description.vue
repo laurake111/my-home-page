@@ -13,7 +13,7 @@
     }
 </script>
 
-<!-- Add "scoped"c attribute rfrto lizszsmit CSS to this component only -->
+<!-- Add "scoped"c attribute rfrto lizszsmitrf CSS to this component only -->
 <style scoped>
     .desc {
         background: white;
