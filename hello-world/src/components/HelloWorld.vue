@@ -13,7 +13,7 @@
     }
 </script>
 
-<!-- Add "scoped"c attribute to limit CSS to this component only -->
+<!-- Add "scoped"c attribute to lizszsmit CSS to this component only -->
 <style scoped>
     .desc {
         background: white;
