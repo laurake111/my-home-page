@@ -62,7 +62,7 @@
         font-family: Rockwell;
     }
 
-    /* Change the link color on hover */
+    /* Change the link color on hdxdxover */
     li:hover {
         background-color: darkslateblue;
         color: white;
