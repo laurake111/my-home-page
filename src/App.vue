@@ -17,7 +17,7 @@
 
 <style>
   body {
-    background-image: url("assets/taust.jpg");
+    background-image: url("../taust.jpg");
     background-size: cover;
   }
 

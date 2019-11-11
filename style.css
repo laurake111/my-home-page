@@ -1,0 +1,77 @@
+.description-box {
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    width: 600px;
+
+}
+.cv-box {
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    width: 1000px;
+
+
+}
+.cv-btn {
+
+}
+
+.cv {
+    background: white;
+    border-style: groove;
+    height: 1000px;
+}
+.desc {
+    background: white;
+    border-style: groove;
+    height: 300px;
+}
+
+ul {
+    background: white;
+    border-style: groove;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    flex-direction: row;
+    height: 40px;
+}
+li {
+    display: inline;
+
+}
+li a {
+    display: inline;
+    color: #000;
+    padding: 10px;
+    text-decoration: none;
+    font-family: Rockwell;
+}
+
+
+li:hover {
+    background-color: darkslateblue;
+    color: white;
+}
+body {
+    background-image: url("taust.jpg");
+    background-size: auto;
+    font-family: Rockwell;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: darkslateblue;
+    margin-top: 60px;
+}
+
+.cv-body {
+    background-color: black;
+    background-size: auto;
+    font-family: Rockwell;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: darkslateblue;
+    margin-top: 60px;
+}
