@@ -5,18 +5,26 @@
     <title>Title</title>
     <link rel="stylesheet" href="style.css">
     <script src="myscripts.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 </head>
 <body>
-<div class="cv-body">
-    <div class="cv-box">
-        <div class="cv">
-            <h1>My CV in Estonian</h1>
-            <button>back</button>
-            <embed src="leisu.pdf" width="800px" height="2100px" />
+<div>
+    <div>
+        <div class="container">
+            <div class="text-center">
+                <h1>My CV in Estonian</h1>
+                <div class="col cv-btn">
+                    <a href="index.html"><button class="btn btn-outline-secondary">back</button></a>
+                </div>
+                <div class="col">
+                    <embed src="leisu.pdf" width="800px" height="2100px" />
+                </div>
+            </div>
         </div>
-
     </div>
 </div>
-
 </body>
 </html>
