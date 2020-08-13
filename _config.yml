@@ -1,0 +1,15 @@
+# Site settings
+title: Laura Leisberg
+description: Software Developer
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Laura Leisberg
+user_title: Software Developer
+email: laura.leisberg@gmail.com
+# twitter_username: lorem_ipsum
+github_username:  laurake111
+# gplus_username:  lorem_ipsum
+
+exclude: ['package.json', 'src' , 'node_modules']
